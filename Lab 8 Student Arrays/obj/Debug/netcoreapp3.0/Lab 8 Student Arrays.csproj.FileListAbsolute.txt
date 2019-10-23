@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\bin\Debug\netcoreapp3.0\Lab 8 Student Arrays.exe
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\bin\Debug\netcoreapp3.0\Lab 8 Student Arrays.deps.json
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\bin\Debug\netcoreapp3.0\Lab 8 Student Arrays.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\bin\Debug\netcoreapp3.0\Lab 8 Student Arrays.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\bin\Debug\netcoreapp3.0\Lab 8 Student Arrays.dll
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\bin\Debug\netcoreapp3.0\Lab 8 Student Arrays.pdb
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\obj\Debug\netcoreapp3.0\Lab 8 Student Arrays.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\obj\Debug\netcoreapp3.0\Lab 8 Student Arrays.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\obj\Debug\netcoreapp3.0\Lab 8 Student Arrays.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\obj\Debug\netcoreapp3.0\Lab 8 Student Arrays.dll
+C:\Users\Holmes HQ\source\repos\Lab 8 Student Arrays\Lab 8 Student Arrays\obj\Debug\netcoreapp3.0\Lab 8 Student Arrays.pdb
